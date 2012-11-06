@@ -10,4 +10,12 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIButton *beginnerButton;
+@property (strong, nonatomic) IBOutlet UIButton *intermediateButton;
+@property (strong, nonatomic) IBOutlet UIButton *expertButton;
+
+- (IBAction)beginnerPressed: (id)sender;
+- (IBAction)intermediatePressed: (id)sender;
+- (IBAction)expertPressed :(id)sender;
+
 @end

@@ -18,6 +18,18 @@
 		CD42F6341645BC7100BEA125 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD42F6331645BC7100BEA125 /* Default-568h@2x.png */; };
 		CD42F6371645BC7100BEA125 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD42F6361645BC7100BEA125 /* ViewController.m */; };
 		CD42F63A1645BC7100BEA125 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD42F6381645BC7100BEA125 /* ViewController.xib */; };
+		CD4B641716486F05004AAA6B /* coin.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4B641616486F05004AAA6B /* coin.png */; };
+		CD6EFB7B164713D50038C7DD /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6EFB7A164713D50038C7DD /* QuartzCore.framework */; };
+		CD6FB996164621C900609E71 /* navBar.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB994164621C900609E71 /* navBar.png */; };
+		CD6FB997164621C900609E71 /* navBar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB995164621C900609E71 /* navBar@2x.png */; };
+		CD6FB99A1646230900609E71 /* mario.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB9991646230900609E71 /* mario.png */; };
+		CD6FB99E1646252B00609E71 /* BeginnerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD6FB99C1646252B00609E71 /* BeginnerViewController.m */; };
+		CD6FB99F1646252B00609E71 /* BeginnerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB99D1646252B00609E71 /* BeginnerViewController.xib */; };
+		CD6FB9A31646304700609E71 /* marioball.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB9A21646304700609E71 /* marioball.png */; };
+		CD6FB9B816463CDA00609E71 /* block.png in Resources */ = {isa = PBXBuildFile; fileRef = CD6FB9B716463CDA00609E71 /* block.png */; };
+		CD9D5F621646447E008E16D9 /* bgPattern.png in Resources */ = {isa = PBXBuildFile; fileRef = CD9D5F601646447E008E16D9 /* bgPattern.png */; };
+		CD9D5F631646447E008E16D9 /* bgPattern@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD9D5F611646447E008E16D9 /* bgPattern@2x.png */; };
+		CD9D5F66164646AE008E16D9 /* marioball@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD9D5F65164646AE008E16D9 /* marioball@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +49,19 @@
 		CD42F6351645BC7100BEA125 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		CD42F6361645BC7100BEA125 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CD42F6391645BC7100BEA125 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		CD4B641616486F05004AAA6B /* coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin.png; sourceTree = "<group>"; };
+		CD6EFB7A164713D50038C7DD /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		CD6FB994164621C900609E71 /* navBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navBar.png; sourceTree = "<group>"; };
+		CD6FB995164621C900609E71 /* navBar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navBar@2x.png"; sourceTree = "<group>"; };
+		CD6FB9991646230900609E71 /* mario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mario.png; sourceTree = "<group>"; };
+		CD6FB99B1646252B00609E71 /* BeginnerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeginnerViewController.h; sourceTree = "<group>"; };
+		CD6FB99C1646252B00609E71 /* BeginnerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeginnerViewController.m; sourceTree = "<group>"; };
+		CD6FB99D1646252B00609E71 /* BeginnerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BeginnerViewController.xib; sourceTree = "<group>"; };
+		CD6FB9A21646304700609E71 /* marioball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marioball.png; sourceTree = "<group>"; };
+		CD6FB9B716463CDA00609E71 /* block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = block.png; sourceTree = "<group>"; };
+		CD9D5F601646447E008E16D9 /* bgPattern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgPattern.png; sourceTree = "<group>"; };
+		CD9D5F611646447E008E16D9 /* bgPattern@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bgPattern@2x.png"; sourceTree = "<group>"; };
+		CD9D5F65164646AE008E16D9 /* marioball@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marioball@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD6EFB7B164713D50038C7DD /* QuartzCore.framework in Frameworks */,
 				CD42F61E1645BC7100BEA125 /* UIKit.framework in Frameworks */,
 				CD42F6201645BC7100BEA125 /* Foundation.framework in Frameworks */,
 				CD42F6221645BC7100BEA125 /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +99,7 @@
 		CD42F61C1645BC7100BEA125 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				CD6EFB7A164713D50038C7DD /* QuartzCore.framework */,
 				CD42F61D1645BC7100BEA125 /* UIKit.framework */,
 				CD42F61F1645BC7100BEA125 /* Foundation.framework */,
 				CD42F6211645BC7100BEA125 /* CoreGraphics.framework */,
@@ -88,6 +115,18 @@
 				CD42F6351645BC7100BEA125 /* ViewController.h */,
 				CD42F6361645BC7100BEA125 /* ViewController.m */,
 				CD42F6381645BC7100BEA125 /* ViewController.xib */,
+				CD6FB99B1646252B00609E71 /* BeginnerViewController.h */,
+				CD6FB99C1646252B00609E71 /* BeginnerViewController.m */,
+				CD6FB99D1646252B00609E71 /* BeginnerViewController.xib */,
+				CD6FB994164621C900609E71 /* navBar.png */,
+				CD6FB995164621C900609E71 /* navBar@2x.png */,
+				CD9D5F601646447E008E16D9 /* bgPattern.png */,
+				CD9D5F611646447E008E16D9 /* bgPattern@2x.png */,
+				CD6FB9991646230900609E71 /* mario.png */,
+				CD6FB9A21646304700609E71 /* marioball.png */,
+				CD9D5F65164646AE008E16D9 /* marioball@2x.png */,
+				CD6FB9B716463CDA00609E71 /* block.png */,
+				CD4B641616486F05004AAA6B /* coin.png */,
 				CD42F6241645BC7100BEA125 /* Supporting Files */,
 			);
 			path = MazeGame;
@@ -163,6 +202,16 @@
 				CD42F6321645BC7100BEA125 /* Default@2x.png in Resources */,
 				CD42F6341645BC7100BEA125 /* Default-568h@2x.png in Resources */,
 				CD42F63A1645BC7100BEA125 /* ViewController.xib in Resources */,
+				CD6FB996164621C900609E71 /* navBar.png in Resources */,
+				CD6FB997164621C900609E71 /* navBar@2x.png in Resources */,
+				CD6FB99A1646230900609E71 /* mario.png in Resources */,
+				CD6FB99F1646252B00609E71 /* BeginnerViewController.xib in Resources */,
+				CD6FB9A31646304700609E71 /* marioball.png in Resources */,
+				CD6FB9B816463CDA00609E71 /* block.png in Resources */,
+				CD9D5F621646447E008E16D9 /* bgPattern.png in Resources */,
+				CD9D5F631646447E008E16D9 /* bgPattern@2x.png in Resources */,
+				CD9D5F66164646AE008E16D9 /* marioball@2x.png in Resources */,
+				CD4B641716486F05004AAA6B /* coin.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +225,7 @@
 				CD42F62A1645BC7100BEA125 /* main.m in Sources */,
 				CD42F62E1645BC7100BEA125 /* AppDelegate.m in Sources */,
 				CD42F6371645BC7100BEA125 /* ViewController.m in Sources */,
+				CD6FB99E1646252B00609E71 /* BeginnerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +342,7 @@
 				CD42F63F1645BC7100BEA125 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
